@@ -1,0 +1,3 @@
+public enum ID {
+    PLAYER, EMEMY, STAR_SYSTEM, PLANET, ASTROID
+}
